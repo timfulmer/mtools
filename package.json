@@ -1,0 +1,33 @@
+{
+  "name": "mtools",
+  "version": "1.0.0",
+  "description": "Mtools makes building a micro-services architecture easy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timfulmer/mtools.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "microservices",
+    "micro-services",
+    "micro",
+    "services",
+    "architecture",
+    "passport",
+    "restify",
+    "waterline",
+    "minimal",
+    "REST",
+    "stack"
+  ],
+  "author": "timfulmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timfulmer/mtools/issues"
+  },
+  "homepage": "https://github.com/timfulmer/mtools#readme"
+}
